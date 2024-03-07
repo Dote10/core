@@ -12,4 +12,7 @@ public class Configration {
         // return new FieldLogTrace();
         return new ThreadLocalLogTrace();
     }
+
+
+
 }
